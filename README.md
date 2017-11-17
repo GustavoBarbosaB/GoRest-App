@@ -4,16 +4,16 @@
 
 ###### Segue abaixo uma breve descrição do que a aplicação faz:
 
->**1.Splash Screen**.
+**1.Splash Screen**.
 
->**2. Login com Facebook**.
-*Foi usada a API do Facebook para fazer a conexão.*
+**2. Login com Facebook**.
+>*Foi usada a API do Facebook para fazer a conexão.*
 
->**3. Primeira aba: Listagem dos países**.
-*É usada a API ResCountries para consumir as informações sobre os países. A biblioteca RetroFit é usada para auxiliar a consumir os dados da API. Os países são listados em uma GridView.*
+**3. Primeira aba: Listagem dos países**.
+>*É usada a API ResCountries para consumir as informações sobre os países. A biblioteca RetroFit é usada para auxiliar a consumir os dados da API. Os países são listados em uma GridView.*
 
->**4. Segunda aba: Países visitados**.
-*É usada a biblioteca ORMLite para persistir os dados. Os dados são listados em uma RecyclerView.*
+**4. Segunda aba: Países visitados**.
+>*É usada a biblioteca ORMLite para persistir os dados. Os dados são listados em uma RecyclerView.*
 
->**5. Terceira aba: Perfil do usuário**. 
-*É mostrado o nome, foto de perfil e email do usuário.*
+**5. Terceira aba: Perfil do usuário**. 
+>*É mostrado o nome, foto de perfil e email do usuário.*
