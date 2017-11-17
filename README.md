@@ -18,5 +18,7 @@
 **5. Terceira aba: Perfil do usuário**. 
 >*É mostrado o nome, foto de perfil e email do usuário.*
 
+<img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png" width="200" height="400" /> | <img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png" width="200" height="400" /> | <img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png" width="200" height="400" />
 
-![GoRest aba 1](https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png) | ![GoRest aba 2](https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/visited.png) | ![GoRest aba 3](https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/myrest.png)
+
+
