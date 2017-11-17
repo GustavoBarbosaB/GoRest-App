@@ -18,10 +18,9 @@
 **5. Terceira aba: Perfil do usuário**. 
 >*É mostrado o nome, foto de perfil e email do usuário.*
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![GoRest aba 1](https://github.com/GustavoBarbosaB/GoRest-App/tree/master/images/home.png)
+![GoRest aba 1](https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png)
 
-![GoRest aba 1](https://github.com/GustavoBarbosaB/GoRest-App/tree/master/images/visited.png)
+![GoRest aba 2](https://github.com/GustavoBarbosaB/GoRest-App/tree/master/images/visited.png)
 
-![GoRest aba 1](https://github.com/GustavoBarbosaB/GoRest-App/tree/master/images/myrest.png)
+![GoRest aba 3](https://github.com/GustavoBarbosaB/GoRest-App/tree/master/images/myrest.png)
