@@ -17,3 +17,6 @@
 
 **5. Terceira aba: Perfil do usuário**. 
 >*É mostrado o nome, foto de perfil e email do usuário.*
+
+![GitHub Logo](/images/home.png)
+Format: ![Alt Text](url)
