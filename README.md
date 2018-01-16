@@ -1,10 +1,26 @@
-# GoRest APP
+# AppAlunos
 
-*Este aplicativo foi um grande desafio. Seu desenvolvimento se deu em 4 dias, na aplicação é feita requisições a API RestCountries, listando todos os países do mundo, bem como suas populações, área e capital.*
+*Este aplicativo foi feito durante a disciplina de Computação Móvel, na Universidade Federal de Uberlândia.*
+
+- O desenvolvimento se deu com 3 participantes, sendo eles:
+1. Gustavo Barbosa
+2. Tatiane Fernandes
+3. Mário Bomfim
+
+- O design de todos os layouts foram feitos por:
+1. Gustavo Barbosa
 
 ###### Segue abaixo uma breve descrição do que a aplicação faz:
 
-**1.Splash Screen**.
+- O aplicativo é uma lista de alunos, no qual o professor pode cadastrar seus alunos, armazenando assim informações como:
+.Nome do aluno
+.Telefone
+.Email
+.Site
+.Nota
+.Endereço
+
+**1. Ligar para um numero**.
 
 **2. Login com Facebook**.
 >*Foi usada a API do Facebook para fazer a conexão.*
@@ -18,7 +34,7 @@
 **5. Terceira aba: Perfil do usuário**. 
 >*É mostrado o nome, foto de perfil e email do usuário.*
 
-<img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/home.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/visited.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/GoRest-App/blob/master/images/myrest.png" width="200" height="400" />
+<img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img1.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img2.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img3.png" width="200" height="400" />
 
 
 
