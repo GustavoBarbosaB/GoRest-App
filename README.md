@@ -42,7 +42,7 @@ Altera e persiste as alterações feitas no aluno.
 Exclui o aluno
 
 # Demonstração das telas do App
-<img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img1.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img2.png" width="200" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img3.png" width="200" height="400" />
+<img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img1.png" width="230" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img2.png" width="230" height="400" />  <img src="https://github.com/GustavoBarbosaB/appAlunos/blob/master/images/img3.png" width="230" height="400" />
 
 
 
